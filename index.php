@@ -110,7 +110,7 @@
 		<br>
 		<!--	Select Spoofed E-mail>
 	<!-- spoofed e-mail start -->
-		<!--	<select name='semail'>
+			<select name='semail'>
 	<option disabled>== name based == </option>
 <option value='mahadev@gmail.com'> mahadev@gmail.com</option>
 <option value='ram@gmail.com'>ram@gmail.com </option>
@@ -140,11 +140,11 @@
 <option value='fake@example.com'>fake@example.com </option>
 <option value='info@example.com'>info@example.com</option>
 <option value='mail4u@gmail.com'> mail4u@gmail.com</option>
-<option disabled> To use Custom spoof mail, like our Facebook page and send message on it regarding this.</option> </select>-->
+<option disabled> To use Custom spoof mail, like our Facebook page and send message on it regarding this.</option> </select>
 <!-- spoof e-mail end -->
 		<!-- Disabled for security reasons --> 
-    <label for="semail"> Spoofed Email ( fake email ) </label>
-		<input name="semail" type="text"   value="anonymous@gmail.com" placeholder="you@domain.com"/>
+   <!-- <label for="semail"> Spoofed Email ( fake email ) </label>
+		<input name="semail" type="text"   value="anonymous@gmail.com" placeholder="you@domain.com"/>-->
 	<br>
 <hr>
 		<br>
